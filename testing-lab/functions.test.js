@@ -47,7 +47,7 @@ describe("check multiplication of two numbers", () => {
     expect(multiply(1, 2)).toBe(2);
   });
   test("multiply 5 and 9", () => {
-    expect(multiply(5, 9)).toBe(45);
+    expect(multiply(10, 9)).toBe(90);
   });
 });
 
